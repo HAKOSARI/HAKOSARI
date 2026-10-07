@@ -55,10 +55,13 @@ The goal is to make verification decisions **more traceable, reproducible, and r
 ## Connect
 
 - **Sakarya Aerospace / SUHAVX:** [suhavx.com](https://suhavx.com)
+- **LinkedIn — Hakan Sarıoğlu:** [Personal profile](https://www.linkedin.com/in/hakans1)
+- **LinkedIn — Sakarya Aerospace:** [Company page](https://www.linkedin.com/company/sakarya-uzay-havacilik-otomasyon-sanayi%CC%87-yazilim-si%CC%87stemleri%CC%87-ar-ge-test-merkezi%CC%87/)
+- **X:** [@hakanoglu43335](https://x.com/hakanoglu43335)
 - **GitHub:** [@HAKOSARI](https://github.com/HAKOSARI)
 - **Engineering Showcase:** [Public repository](https://github.com/HAKOSARI/sakarya-aerospace--engineering-showcase)
 
-*LinkedIn and X links will be added after the exact profile URLs are confirmed.*
+*SUHAVX-branded WhatsApp Channel, Instagram, and YouTube links will be added after the new official channels are created.*
 
 ---
 
