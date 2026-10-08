@@ -1,3 +1,5 @@
+![Sakarya Aerospace | SUHAVX — Engineering Showcase](SUHAVX_GitHub_Banner.jpg)
+
 # Hakan Sarıoğlu
 
 **Electrical & Electronics Engineer · MSc in Mechatronics**  
